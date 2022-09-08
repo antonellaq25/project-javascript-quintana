@@ -2,5 +2,5 @@
 { "id": 2," marca": "Adidas", "talle": 42, "image": "adidas2.jpg" },
 { "id": 3," marca": "Vans", "talle": 40, "image": "vans.jpg" },
 { "id": 4," marca": "Vans", "talle": 40, "image": "vans2.jpg" },
-{ "id": 5," marca": "Converse", "talle": 40, "image": "converse.jpg" }
+{ "id": 5," marca": "Converse", "talle": 40, "image": "converse.jpg"}]
 
