@@ -1,0 +1,9 @@
+[{ "id": 1," marca": "Adidas", "talle": 42, "image": "adidas.jpg" },
+{ "id": 2," marca": "Adidas", "talle": 42, "image": "adidas2.jpg" },
+{ "id": 3," marca": "Adidas", "talle": 42, "image": "adidas3.jpg" },
+{ "id": 4," marca": "Vans", "talle": 40, "image": "vans.jpg" },
+{ "id": 5," marca": "Vans", "talle": 40, "image": "vans2.jpg" },
+{ "id": 6," marca": "Vans", "talle": 40, "image": "vans3.jpg" },
+{ "id": 7," marca": "Converse", "talle": 40, "image": "converse.jpg" },
+{ "id": 8," marca":"Converse", "talle": 40, "image": "converse2.jpg" },
+{ "id": 9," marca":"Converse", "talle": 40, "image": "converse3.jpg" }]
