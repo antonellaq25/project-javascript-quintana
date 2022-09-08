@@ -2,19 +2,19 @@
     "adidas":[
        {
           "id":1,
-          " marca":"Adidas",
+          "marca":"Adidas",
           "talle":42,
           "image":"adidas.jpg"
        },
        {
           "id":2,
-          " marca":"Adidas",
+          "marca":"Adidas",
           "talle":42,
           "image":"adidas2.jpg"
        },
        {
           "id":3,
-          " marca":"Adidas",
+          "marca":"Adidas",
           "talle":42,
           "image":"adidas3.jpg"
        }
@@ -22,19 +22,19 @@
     "Vans":[
        {
           "id":3,
-          " marca":"Vans",
+          "marca":"Vans",
           "talle":40,
           "image":"vans.jpg"
        },
        {
           "id":4,
-          " marca":"Vans",
+          "marca":"Vans",
           "talle":40,
           "image":"vans2.jpg"
        },
        {
           "id":5,
-          " marca":"Vans",
+          "marca":"Vans",
           "talle":40,
           "image":"vans3.jpg"
        }
@@ -42,19 +42,19 @@
     "converse":[
        {
           "id":5,
-          " marca":"Converse",
+          "marca":"Converse",
           "talle":40,
           "image":"converse.jpg"
        },
        {
           "id":6,
-          " marca":"Converse",
+          "marca":"Converse",
           "talle":40,
           "image":"converse2.jpg"
        },
        {
           "id":7,
-          " marca":"Converse",
+          "marca":"Converse",
           "talle":40,
           "image":"converse3.jpg"
        }
